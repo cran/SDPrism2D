@@ -1,0 +1,4 @@
+importFrom("grDevices", "dev.new")
+importFrom("graphics", "arrows", "axis", "par", "segments",
+             "stripchart", "text")
+export(sdprism2d)
